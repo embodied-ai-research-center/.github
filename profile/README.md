@@ -67,9 +67,9 @@
 
 ## 五、组织与协作
 
-<div align="center">
+组织按「中心 — 项目组 — 仓库」三级结构管理，一个项目组对应一个团队、一个仓库，权限边界与代码资产一一对应：
 
-<pre>
+```text
 embodied-ai-research-center
 ├── research-center              中心管理层
 ├── team-pm01                    PM01 迎宾导览
@@ -79,9 +79,7 @@ embodied-ai-research-center
 ├── team-arm-franka-assembly     Franka 轴孔装配
 ├── team-arm-agri-picking        集萃农业采摘
 └── team-tankbot                 Tankbot 小车
-</pre>
-
-</div>
+```
 
 **协作规范**
 
